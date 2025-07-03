@@ -1,0 +1,6 @@
+train: C:\ML\loader\fiok\train
+val: C:\ML\loader\fiok\val
+
+nc: 2
+
+names: ["faceplate", "atg"]
